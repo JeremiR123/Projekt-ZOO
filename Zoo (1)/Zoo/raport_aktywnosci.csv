@@ -1,0 +1,101 @@
+Tura;Zwierze;Aktywnosc
+1 ;Elephant ;Jedzenie: Elephant hunger:8
+1 ;Elephant ;Energia:  energy:6
+1 ;Lion ;Jedzenie: Lion hunger:8
+1 ;Lion ;Energia:  energy:7
+1 ;Crocodile ;Jedzenie: Crocodile hunger:9
+1 ;Crocodile ;Energia:  energy:3
+1 ;Eagle ;Jedzenie: Eagle hunger:7
+1 ;Eagle ;Energia:  energy:6
+1 ;Penguin ;Jedzenie: Penguin hunger:7
+1 ;Penguin ;Energia:  energy:1
+2 ;Elephant ;Jedzenie: Elephant hunger:7
+2 ;Elephant ;Energia:  energy:5
+2 ;Lion ;Jedzenie: Lion hunger:7
+2 ;Lion ;Energia:  energy:6
+2 ;Crocodile ;Jedzenie: Crocodile hunger:8
+2 ;Crocodile ;Energia:  energy:2
+2 ;Eagle ;Jedzenie: Eagle hunger:6
+2 ;Eagle ;Energia:  energy:5
+2 ;Penguin ;Jedzenie: Penguin hunger:6
+2 ;Penguin ;Energia:  energy:0
+3 ;Elephant ;Jedzenie: Elephant hunger:6
+3 ;Elephant ;Energia:  energy:4
+3 ;Lion ;Jedzenie: Lion hunger:6
+3 ;Lion ;Energia:  energy:5
+3 ;Crocodile ;Jedzenie: Crocodile hunger:7
+3 ;Crocodile ;Energia:  energy:1
+3 ;Eagle ;Jedzenie: Eagle hunger:5
+3 ;Eagle ;Energia:  energy:4
+3 ;Penguin ;Jedzenie: Penguin hunger:5
+3 ;Penguin ;Energia:  energy:1
+4 ;Elephant ;Jedzenie: Elephant hunger:5
+4 ;Elephant ;Energia:  energy:3
+4 ;Lion ;Jedzenie: Lion hunger:5
+4 ;Lion ;Energia:  energy:4
+4 ;Crocodile ;Jedzenie: Crocodile hunger:6
+4 ;Crocodile ;Energia:  energy:0
+4 ;Eagle ;Jedzenie: Eagle hunger:4
+4 ;Eagle ;Energia:  energy:3
+4 ;Penguin ;Jedzenie: Penguin hunger:4
+4 ;Penguin ;Energia:  energy:0
+5 ;Elephant ;Jedzenie: Elephant hunger:4
+5 ;Elephant ;Energia:  energy:2
+5 ;Lion ;Jedzenie: Lion hunger:4
+5 ;Lion ;Energia:  energy:3
+5 ;Crocodile ;Jedzenie: Crocodile hunger:5
+5 ;Crocodile ;Energia:  energy:6
+5 ;Eagle ;Jedzenie: Eagle hunger:3
+5 ;Eagle ;Energia:  energy:2
+5 ;Penguin ;Jedzenie: Penguin hunger:3
+5 ;Penguin ;Energia:  energy:5
+6 ;Elephant ;Jedzenie: Elephant hunger:3
+6 ;Elephant ;Energia:  energy:1
+6 ;Lion ;Jedzenie: Lion hunger:3
+6 ;Lion ;Energia:  energy:2
+6 ;Crocodile ;Jedzenie: Crocodile hunger:4
+6 ;Crocodile ;Energia:  energy:5
+6 ;Eagle ;Jedzenie: Eagle hunger:2
+6 ;Eagle ;Energia:  energy:1
+6 ;Penguin ;Jedzenie: Penguin hunger:2
+6 ;Penguin ;Energia:  energy:4
+7 ;Elephant ;Jedzenie: Elephant hunger:2
+7 ;Elephant ;Energia:  energy:0
+7 ;Lion ;Jedzenie: Lion hunger:2
+7 ;Lion ;Energia:  energy:1
+7 ;Crocodile ;Jedzenie: Crocodile hunger:3
+7 ;Crocodile ;Energia:  energy:4
+7 ;Eagle ;Jedzenie: Eagle hunger:1
+7 ;Eagle ;Energia:  energy:0
+7 ;Penguin ;Jedzenie: Penguin hunger:1
+7 ;Penguin ;Energia:  energy:3
+8 ;Elephant ;Jedzenie: Elephant hunger:1
+8 ;Elephant ;Energia:  energy:1
+8 ;Lion ;Jedzenie: Lion hunger:1
+8 ;Lion ;Energia:  energy:0
+8 ;Crocodile ;Jedzenie: Crocodile hunger:2
+8 ;Crocodile ;Energia:  energy:3
+8 ;Eagle ;Jedzenie: Eagle hunger:0
+8 ;Eagle ;Energia:  energy:6
+8 ;Penguin ;Jedzenie: Penguin hunger:0
+8 ;Penguin ;Energia:  energy:2
+9 ;Elephant ;Jedzenie: Elephant hunger:0
+9 ;Elephant ;Energia:  energy:0
+9 ;Lion ;Jedzenie: Lion hunger:0
+9 ;Lion ;Energia:  energy:2
+9 ;Crocodile ;Jedzenie: Crocodile hunger:1
+9 ;Crocodile ;Energia:  energy:2
+9 ;Eagle ;Jedzenie: Eagle hunger:7
+9 ;Eagle ;Energia:  energy:5
+9 ;Penguin ;Jedzenie: Penguin hunger:6
+9 ;Penguin ;Energia:  energy:1
+10 ;Elephant ;Jedzenie: Elephant hunger:6
+10 ;Elephant ;Energia:  energy:5
+10 ;Lion ;Jedzenie: Lion hunger:7
+10 ;Lion ;Energia:  energy:1
+10 ;Crocodile ;Jedzenie: Crocodile hunger:0
+10 ;Crocodile ;Energia:  energy:1
+10 ;Eagle ;Jedzenie: Eagle hunger:6
+10 ;Eagle ;Energia:  energy:4
+10 ;Penguin ;Jedzenie: Penguin hunger:5
+10 ;Penguin ;Energia:  energy:0
